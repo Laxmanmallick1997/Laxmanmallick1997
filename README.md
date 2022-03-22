@@ -88,8 +88,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## &#x1f4c8; GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Laxmanmallick1997N&show_icons=true&theme=gotham" alt="Laxmanmallick1997 " width = "45%" />
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laxmanmallick1997 &custom_title=Most Used  Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Laxmanmallick1997 " width = "45%"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Laxmanmallick1997&show_icons=true&theme=gotham" alt="Laxmanmallick1997 " width = "45%" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Laxmanmallick1997&custom_title=Most Used  Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Laxmanmallick1997" width = "45%"/>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
