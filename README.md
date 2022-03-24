@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **laxmanmallick9287@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IC9l-JPvYPWPGBWc2iqryLWvhkMOrx-J/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CCVtlPxFizFj71KNrer19xtqDt3Gw7FP/view?usp=sharing)
 
 - ⚡ Fun fact **I am a PhotoGrapher**
     <hr/>
